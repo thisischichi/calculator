@@ -1,3 +1,8 @@
+## A Simple Equal Experts-branded Calculator
+This version number: 38ada8dd45ad9b9c3f5bae33cb41119c526dd243 
+
+![Screenshot taken on a 13" MacBook Pro](/images/calculator.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
