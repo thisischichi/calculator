@@ -1,0 +1,18 @@
+.branding-container {
+  background-color: var(--branding-background-color);
+  height: var(--branding-height);
+  width: var(--branding-width);
+  color: var(--branding-text-color);
+  font-size: var(--branding-text-size);
+  font-family: var(--main-font);
+  font-weight: var(--branding-text-weight);
+  vertical-align: top;
+  align-items: center;
+  text-align: center;
+  float: right;
+
+}
+
+.logo-container {
+  float: left;
+}
