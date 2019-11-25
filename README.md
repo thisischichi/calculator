@@ -1,7 +1,7 @@
 ## A Simple Equal Experts-branded Calculator
 This version number: 38ada8dd45ad9b9c3f5bae33cb41119c526dd243 
 
-(Screenshot taken on a 13" MacBook Pro)
+(Screenshot taken on a 13" MacBook Pro. Branding elements may vary in appearance depending on the dimensions of your device.)
 
 ![Screenshot taken on a 13" MacBook Pro](/images/calculator.png)
 
