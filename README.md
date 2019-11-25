@@ -1,9 +1,25 @@
 ## A Simple Equal Experts-branded Calculator
 This version number: 38ada8dd45ad9b9c3f5bae33cb41119c526dd243 
 
+(Screenshot taken on a 13" MacBook Pro)
+
 ![Screenshot taken on a 13" MacBook Pro](/images/calculator.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## To get it up and running:
+
+1. Clone the repository by running the following command at a command prompt:
+
+```git clone https://github.com/thisischichi/calculator.git```
+
+2. Install all required dependencies
+
+### yarn install
+
+3.  Then 'yarn start' will open up a browser with the calculator loaded as in the screenshot above.
+
+### yarn start
 
 ## Available Scripts
 
