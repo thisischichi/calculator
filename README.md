@@ -11,15 +11,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 1. Clone the repository by running the following command at a command prompt:
 
-...```git clone https://github.com/thisischichi/calculator.git```
+  ```git clone https://github.com/thisischichi/calculator.git```
 
 2. Install all required dependencies
 
-...```yarn install```
+  ```yarn install```
 
 3.  Then 'yarn start' will open up a browser with the calculator loaded as in the screenshot above.
 
-...```yarn start```
+  ```yarn start```
 
 ## Available Scripts
 
